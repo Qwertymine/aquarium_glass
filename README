@@ -1,0 +1,8 @@
+This is a simple mod which adds only one new block: Aquarium Glass
+
+This glass allows you to see through water (and any other liquid) clearly.
+There are rendering issues when looking looking at the water surface from below.
+
+Depends
+Default (Crafting)
+
